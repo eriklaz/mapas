@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mapas</string>
+
+    <string name="mapno">Normal</string>
+    <string name="maphi">Hibrido</string>
+    <string name="mapsat">Satelite</string>
+    <string name="mapte">Terreno</string>
+    <string name="mapnon">None</string>
+</resources>
